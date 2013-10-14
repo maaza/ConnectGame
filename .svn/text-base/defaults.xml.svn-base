@@ -1,0 +1,2 @@
+rows,cols,connects,players,slot_file,player1,player2
+6,7,4,2,images/grey.png,images/yellow.png,images/red.png
